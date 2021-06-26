@@ -1,0 +1,13 @@
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Estruturas de Repetição\Exercicio Desafio Repetições\bin\Debug\netcoreapp3.1\Exercicio Desafio Repetições.exe
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Estruturas de Repetição\Exercicio Desafio Repetições\bin\Debug\netcoreapp3.1\Exercicio Desafio Repetições.deps.json
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Estruturas de Repetição\Exercicio Desafio Repetições\bin\Debug\netcoreapp3.1\Exercicio Desafio Repetições.runtimeconfig.json
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Estruturas de Repetição\Exercicio Desafio Repetições\bin\Debug\netcoreapp3.1\Exercicio Desafio Repetições.runtimeconfig.dev.json
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Estruturas de Repetição\Exercicio Desafio Repetições\bin\Debug\netcoreapp3.1\Exercicio Desafio Repetições.dll
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Estruturas de Repetição\Exercicio Desafio Repetições\bin\Debug\netcoreapp3.1\Exercicio Desafio Repetições.pdb
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Estruturas de Repetição\Exercicio Desafio Repetições\obj\Debug\netcoreapp3.1\Exercicio Desafio Repetições.csprojAssemblyReference.cache
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Estruturas de Repetição\Exercicio Desafio Repetições\obj\Debug\netcoreapp3.1\Exercicio Desafio Repetições.AssemblyInfoInputs.cache
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Estruturas de Repetição\Exercicio Desafio Repetições\obj\Debug\netcoreapp3.1\Exercicio Desafio Repetições.AssemblyInfo.cs
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Estruturas de Repetição\Exercicio Desafio Repetições\obj\Debug\netcoreapp3.1\Exercicio Desafio Repetições.csproj.CoreCompileInputs.cache
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Estruturas de Repetição\Exercicio Desafio Repetições\obj\Debug\netcoreapp3.1\Exercicio Desafio Repetições.dll
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Estruturas de Repetição\Exercicio Desafio Repetições\obj\Debug\netcoreapp3.1\Exercicio Desafio Repetições.pdb
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Estruturas de Repetição\Exercicio Desafio Repetições\obj\Debug\netcoreapp3.1\Exercicio Desafio Repetições.genruntimeconfig.cache
